@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
   color:#6e6e6e;
   font-weight:400;
@@ -171,7 +171,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
